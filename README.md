@@ -11,5 +11,6 @@ Repository for Git course.
 8.   
 9. Добавлен 8 пункт кода в ветке feature/add-branch-info
    Появится при обединении с main веткой. 
+10.   Создан запрос на извлечение.
 
 
