@@ -8,4 +8,8 @@ Repository for Git course.
 5. Добавление ветки bugfix/fix-branch.
 6. Проводится работа по устранению багов в ветке bugfix/fix-branch
 7. Устранение багов и ошибок.
+8.   
+9. Добавлен 8 пункт кода в ветке feature/add-branch-info
+   Появится при обединении с main веткой. 
+
 
